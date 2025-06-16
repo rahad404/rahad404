@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MD. ASHIKUZZAMAN RAHAD, you can call me RAHAD
-- 👀 I’m interested in Data Analysis, Data Visualization, and Computer programming(C, C++, Python)
-- 🌱 I’m currently learning Data Analysis. I'm also learning C at my university.
+- 👀 I’m interested in Data Analysis, Data Visualization, and Computer programming(C, C++, Python, java)
+- 🌱 I’m currently learning Data Analysis.
   
 - 📫 How to reach me:
   - rahad.0911@gmail.com
