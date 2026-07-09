@@ -138,10 +138,18 @@ I love computers and have explored a lot along the way — I started with **data
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rahad404&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahad404&theme=radical&hide_border=true" width="49%" />
+<table align="center">
+<tr>
+<td valign="middle" width="50%">
+<img src="https://github-stats-extended.vercel.app/api?username=rahad404&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" />
+</td>
+<td valign="middle" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahad404&theme=radical&hide_border=true" width="100%" />
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rahad404&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rahad404&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" />
 
 </div>
 
